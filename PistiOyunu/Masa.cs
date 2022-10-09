@@ -105,6 +105,7 @@ namespace PistiOyunu
         private void KalanlariTopla()
         {
             //En son el alan oyuncu kalanları toplayacak.
+            //Winform yapısında gerçekleştireceğiz.
         }
     }
 }
